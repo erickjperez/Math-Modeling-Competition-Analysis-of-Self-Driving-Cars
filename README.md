@@ -1,0 +1,2 @@
+# Math-Modeling-Competition-Analysis-of-Self-Driving-Cars
+This project read from a large data set of hundreds of lines of data and analyzed the affects self driving cars have on traffic in the Seattle area. The program predicts the likelihood for traffic given an hour a stretch of freeway as the percentage of self driving cars increases. It does this using a spatial approach and how many cars can fit on a given stretch of road at a time.
